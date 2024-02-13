@@ -1,5 +1,14 @@
 # datafun-06-eda
 
+## Project Overview
+[TODO]
+
+## Dataset Description
+The taxis dataset from the seaborn library will be utilized for this project. The dataset can be found at: https://github.com/mwaskom/seaborn-data/blob/master/taxis.csv.
+
+
+
+
 ## Project Setup
 1. Create a repository on GitHub in the browser
 2. Clone the repository
