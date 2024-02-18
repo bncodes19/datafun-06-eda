@@ -1,10 +1,10 @@
 # datafun-06-eda
 
 ## Project Overview
-[TODO]
+This project will complete an Exploratory Data Analaysis (EDA) by utilizing a standard seaborn dataset. The link to the EDA is here: [neely_eda.ipynb](https://github.com/bncodes19/datafun-06-eda/blob/main/neely_eda.ipynb)
 
 ## Dataset Description
-The taxis dataset from the seaborn library will be utilized for this project. The dataset can be found at: https://github.com/mwaskom/seaborn-data/blob/master/taxis.csv.
+The taxis dataset from the seaborn library will be utilized for this project. The dataset can be found at: [seaborn taxis dataset](https://github.com/mwaskom/seaborn-data/blob/master/taxis.csv.)
 
 ### Dataset field descriptions:
 | **  Field **        | **  Description **                         |
